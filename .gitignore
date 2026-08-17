@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+
+# Generated benchmark outputs
+results/
+*.log
+*.xlsx
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/

@@ -1,0 +1,8 @@
+*.json text eol=lf
+*.jsonl text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.yml text eol=lf
+*.jpg binary
+*.jpeg binary
+*.png binary
